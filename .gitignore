@@ -1,0 +1,20 @@
+# watchdogs2cardmaker project files
+__pycache__/
+.venv/
+.python-version
+
+# User specific data and sessions (Private Data)
+/sessions/
+/captures/
+card_data.json
+ocr_regions.json
+keybinds.json
+portrait_b64.txt
+
+# Generated HTML file
+index.html
+
+# Temporary/recovery files
+css_match_*.txt
+recovered_index.html
+fix_build.py
