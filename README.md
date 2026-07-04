@@ -13,20 +13,25 @@ The tool uses a combination of techniques to gather data while you play:
 
 ## Screenshots
 
-<!-- ADD YOUR SCREENSHOTS BELOW THIS LINE -->
-> **Tip:** You can drag and drop your screenshots directly into this area if you are editing this file on GitHub!
+* Dynamic Web Card (index.html) [Playstyle Card Screenshot] 
+<img width="924" height="962" alt="Screenshot 2026-07-04 103309" src="https://github.com/user-attachments/assets/d9fd3078-a209-4852-96d6-7a7074a8dee2" />
 
-*Placeholder for: Dynamic Web Card (index.html)*
-![Playstyle Card Screenshot](link-to-your-image-here)
+* Placeholder for: Stat Engine Terminal Output [Stat Engine Screenshot]
+<img width="992" height="500" alt="Screenshot 2026-07-04 110524" src="https://github.com/user-attachments/assets/7725af58-1f1b-495f-a621-629be932464e" />
 
-*Placeholder for: Stat Engine Terminal Output*
-![Stat Engine Screenshot](link-to-your-image-here)
 
-*Placeholder for: Input Logger Terminal Output*
-![Input Logger Screenshot](link-to-your-image-here)
+* Placeholder for: Input Logger Terminal Output [Input Logger Screenshot]
 
-*Placeholder for: OCR Capture Terminal Output*
-![OCR Capture Screenshot](link-to-your-image-here)
+<img width="755" height="293" alt="Screenshot 2026-07-04 110704" src="https://github.com/user-attachments/assets/0cafba18-2c5e-443e-bc5c-6530ad136abe" />
+
+<img width="760" height="642" alt="Screenshot 2026-07-04 111350" src="https://github.com/user-attachments/assets/7155d541-8bcd-43aa-9c02-898dacc6f5a1" />
+
+<img width="856" height="408" alt="Screenshot 2026-07-04 111403" src="https://github.com/user-attachments/assets/8870d316-d90e-4770-b740-1fc3761b94cb" />
+
+
+* Placeholder for: OCR Capture Terminal Output [OCR Capture Screenshot]
+
+<img width="894" height="511" alt="Screenshot 2026-07-04 110436" src="https://github.com/user-attachments/assets/98da35a4-9384-42e8-98d4-cdb6a77e9ff4" />
 
 ---
 
